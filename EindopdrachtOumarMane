@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="eindopdracht.css">
+   <title>Document</title>
+</head>
+<body>
+  <h2 class="head2">Hoe maak je een repository op git hub?</h2 class="head2">
+   <p class="para2">
+   Als je al een project op je computer hebt staan
+   Open GitHub Desktop. Ga naar de knop File en klik daarna op de optie New repository.<br>
+   Je krijg nu een scherm te zien waar je de naam, beschrijving en locatie van je project kan aanpassen.
+   </p class="para2">
+   <h2 class="head2">Hoe add je iets in git hub?</h2 class="head2">
+   <p class="para2">
+   Als je wilt bijdragen aan een bestaand project waar je geen push toegang tot hebt,
+   kan je het project “forken”.<br>
+   Dat houdt in dat GitHub je een kopie laat maken
+   van het project die geheel van jouw is;
+   het bestaat in de namespace van jouw gebruiker en jij kunt ernaar pushen.
+   </p class="para2">
+   <h2 class="head2">Hoe commit je een bestand in GitHub</h2 class="head2">
+   <p class="para2">     
+   Maak een nieuwe repository op GitHub. Om fouten te voorkomen, initialiseer de nieuwe repository niet met README-,
+   licentie- of gitignore-bestanden. <br> Je kunt deze bestanden toevoegen nadat je project naar GitHub is gepusht. <br>
+   Nu open je git bash en voert in *git init* daarna typ je *git add* dan komt er als het goed is dit stuk tekst in beeld <br>
+   Adds the files in the local repository and stages them for commit. To unstage a file, use 'git reset HEAD YOUR-FILE'. <br>
+   Nu typ je *git commit -m "First commit"* dan hoort deze tekst in beeld te komen. <br>
+   Commits the tracked changes and prepares them to be pushed to a remote repository.
+   To remove this commit and modify the file, use 'git reset --soft HEAD~1' and commit and add the file again. <br>
+   Klik bovenaan de pagina Snelle installatie van uw GitHub-opslagplaats om de externe opslagplaats-URL te kopiëren(dit ziet eruit als een klemboord met een pijltje).
+   </p class="para2">
+   <h2 class="head2">Hoe push je een bestand in github</h2 class="head2">
+   <p class="para2">
+   Gebruik git push om commits die op je lokale branch
+   zijn gemaakt naar een externe repository te pushen.
+   (Dit is wat ik vond op internet.)
+   </p class="para2">
+   <h2 class="head2">Hoe het nu is als een thuis student</h2>
+   <p class="para2">
+      Voor mij is het wel moeilijk, omdat ik het moeilijk met de nieuwe manier hoe alles gaat met nieuwe progamma's. <br>
+      De dingen die ik het meeste doe is films kijken youtube kijken en veel slapen om de dag door te komen. <br>
+      Ik kijk veel<a href="https://www.youtube.com/watch?v=Umf1U1IGB40">van dit soort video's</a> Ik luister ook veel muziek en doe veel push ups en home work outs. <br>
+      Ik was afgelopen week nog jarig en daar heb ik nog foto's van. <br> <img src="fototje.jpg" alt="" class="img1">
+   </p>
+
+</body>
+</html>
